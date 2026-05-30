@@ -32,8 +32,6 @@ public class KarthickkumarR {
         "Snowflake", "REST APIs"
     };
 
-   
-
     String motto() {
         return "Build → Optimize → Scale → Repeat";
     }
