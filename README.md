@@ -25,12 +25,11 @@ public class KarthickkumarR {
     String name         = "Karthickkumar R";
     String location     = "Coimbatore, Tamil Nadu, India";
     String degree       = "B.E. Computer Science @ SKCET (2026)";
-    String email        = "rkarthick182005@gmail.com";
 
     String[] stack = {
         "Java", "Spring Boot", "React",
         "Python", "JavaScript", "MySQL",
-        , "REST APIs"
+        "Snowflake", "REST APIs"
     };
 
    
@@ -86,18 +85,6 @@ public class KarthickkumarR {
   <a href="https://github.com/Rkarthick182005">
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rkarthick182005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
-</div>
-
----
-
-
----
-
-<!-- TROPHY WALL -->
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rkarthick182005&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 ---
@@ -168,8 +155,6 @@ public class KarthickkumarR {
 </div>
 
 **Relevant Coursework:** Database Management Systems · Operating Systems · Computer Networks · Artificial Intelligence · Object-Oriented Programming · Software Engineering
-
----
 
 
 ---
