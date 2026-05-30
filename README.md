@@ -6,7 +6,6 @@
 <!-- PROFILE VIEWS + SOCIAL BADGES -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rkarthick182005&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
-  <a href="mailto:rkarthick182005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Rkarthick182005"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
@@ -24,23 +23,17 @@
 public class KarthickkumarR {
 
     String name         = "Karthickkumar R";
-    String location     = "Dindigul, Tamil Nadu, India";
+    String location     = "Coimbatore, Tamil Nadu, India";
     String degree       = "B.E. Computer Science @ SKCET (2026)";
     String email        = "rkarthick182005@gmail.com";
 
     String[] stack = {
         "Java", "Spring Boot", "React",
         "Python", "JavaScript", "MySQL",
-        "Hybrid RAG", "NLP", "REST APIs"
+        , "REST APIs"
     };
 
-    String[] currentlyLearning = {
-        "System Design & Microservices",
-        "Advanced LLMs & Vector DBs",
-        "Cloud Deployment (AWS / GCP)"
-    };
-
-    String funFact = "I reduced AI query latency by 40% with caching!";
+   
 
     String motto() {
         return "Build → Optimize → Scale → Repeat";
@@ -60,7 +53,6 @@ public class KarthickkumarR {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -70,14 +62,6 @@ public class KarthickkumarR {
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![REST API](https://img.shields.io/badge/REST%20APIs-FF6F00?style=flat-square&logo=fastapi&logoColor=white)
-
-**AI / ML**
-
-![LLM](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-00BCD4?style=flat-square&logo=googlecloud&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector%20Embeddings-BF91F3?style=flat-square&logo=pinecone&logoColor=white)
-![Knowledge Graph](https://img.shields.io/badge/Knowledge%20Graphs-38BDAE?style=flat-square&logo=neo4j&logoColor=white)
-![RAG](https://img.shields.io/badge/Hybrid%20RAG-70A5FD?style=flat-square&logo=anthropic&logoColor=white)
 
 **Databases**
 
@@ -106,21 +90,6 @@ public class KarthickkumarR {
 
 ---
 
-<!-- STREAK STATS -->
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rkarthick182005&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
-</div>
-
----
-
-<!-- ACTIVITY GRAPH -->
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rkarthick182005&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
-</div>
 
 ---
 
@@ -137,7 +106,7 @@ public class KarthickkumarR {
 ## 💼 Work Experience
 
 <details>
-<summary>🎓 <strong>Sri Krishna College of Engineering and Technology</strong> — B.E. Computer Science Student · Expected May 2026 · Coimbatore, TN</summary>
+<summary>🎓 <strong>Sri Krishna College of Engineering and Technology</strong> — B.E. Computer Science Student · May 2026 · Coimbatore, TN</summary>
 
 > ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 > ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -194,7 +163,7 @@ public class KarthickkumarR {
 
 | Degree | Institution | Year | Score |
 |:---|:---|:---:|:---:|
-| B.E. Computer Science Engineering | Sri Krishna College of Engineering and Technology, Coimbatore | 2022 – 2026 | 7.9 / 10 CGPA |
+| B.E. Computer Science Engineering | Sri Krishna College of Engineering and Technology, Coimbatore | 2022 – 2026 | 8.01 / 10 CGPA |
 
 </div>
 
@@ -202,16 +171,6 @@ public class KarthickkumarR {
 
 ---
 
-<!-- CURRENTLY LEARNING -->
-## 🌱 Currently Learning
-
-```
-🧱 System Design        → Microservices, Load Balancing, CAP Theorem
-🤖 Advanced AI / LLMs   → Fine-tuning, Agentic Pipelines, RAG Optimization
-☁️ Cloud Deployment     → AWS (EC2, S3, Lambda), GCP, Docker & Kubernetes
-🔐 Security             → OAuth2, JWT Deep-Dive, API Security Best Practices
-📐 DSA & CP             → Advanced Graph Algorithms, Dynamic Programming
-```
 
 ---
 
@@ -219,9 +178,6 @@ public class KarthickkumarR {
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="mailto:rkarthick182005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
   <a href="https://github.com/Rkarthick182005">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
